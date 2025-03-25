@@ -2,10 +2,10 @@
 *.pdb
 *.sdf
 *.suo
+*.vcxproj.user
 *Debug
 *Release
 *UpgradeLog.htm
 *debug
 *release
 .vs
-*.vcxproj.user
