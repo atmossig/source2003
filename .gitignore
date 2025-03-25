@@ -1,0 +1,10 @@
+*.exp
+*.pdb
+*.sdf
+*.suo
+*Debug
+*Release
+*UpgradeLog.htm
+*debug
+*release
+.vs
